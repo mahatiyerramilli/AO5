@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.subheading {
+    font-size: 0.8em; 
+    color: black; 
+    margin-bottom: 20px;
+    font-weight: bold;  
+}
+
+h2 {
+    color: black;
+}
+
+.mission, .packages, .speakers {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 10px 0;
+    padding-left: 15px;
+    border-left: 2px solid black;
+}
